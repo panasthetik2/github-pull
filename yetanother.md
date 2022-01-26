@@ -1,3 +1,3 @@
 ## New another file for testing purposes.
 
-content.
+content. also changed for pull #3.
